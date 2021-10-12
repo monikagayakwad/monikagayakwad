@@ -1,0 +1,7 @@
+# mandatory medata required 
+   sonar.projectKey=java-project
+   sonar.projectName=java-project
+   sonar.projectVersion=9.1
+# path to the src dir of the maven project
+   sonar.sources=src
+   sonar.jacoco.reportPath=download\\coverage-reports\\jacoco-unit.exec
